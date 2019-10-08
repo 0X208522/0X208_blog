@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/0X208522/0X208_blog
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -25,7 +25,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
+  github: https://github.com/0X208522
   twitter: /
   facebook: /
   linkedin: /
@@ -43,7 +43,7 @@ tags_overview: true
 posts_overview:
   show_all_posts: true
   post_count: 5
-  sort_updated: true
+  sort_updated: false
 
 # Customize the archive view.
 # Options:
@@ -51,7 +51,7 @@ posts_overview:
 # Note: this does not work together with pagination, since the pagination
 # plugin will sort pages by date of creation.
 archive:
-  sort_updated: true
+  sort_updated: false
 
 # Customize the article view.
 # Options:
